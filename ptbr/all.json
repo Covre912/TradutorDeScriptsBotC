@@ -2,7 +2,7 @@
   {
     "id": "washerwoman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/washerwoman.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/washerwoman.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/washerwomanReversed.png"],
     "name": "Lavadeira",
     "edition": "tb",
@@ -19,7 +19,7 @@
   {
     "id": "librarian_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/librarian.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/librarian.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/librarianReversed.png"],
     "name": "Bibliotecária",
     "edition": "tb",
@@ -36,7 +36,7 @@
   {
     "id": "investigator_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/investigator.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/investigator.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/investigatorReversed.png"],
     "name": "Investigador",
     "edition": "tb",
@@ -53,7 +53,7 @@
   {
     "id": "chef_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chef.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/chef.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chefReversed.png"],
     "name": "Chef",
     "edition": "tb",
@@ -70,7 +70,7 @@
   {
     "id": "empath_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/empath.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/empath.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/empathReversed.png"],
     "name": "Empático",
     "edition": "tb",
@@ -87,7 +87,7 @@
   {
     "id": "fortuneteller_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fortuneteller.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/fortuneteller.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fortunetellerReversed.png"],
     "name": "Vidente",
     "edition": "tb",
@@ -104,7 +104,7 @@
   {
     "id": "undertaker_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/undertaker.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/undertaker.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/undertakerReversed.png"],
     "name": "Coveiro",
     "edition": "tb",
@@ -121,7 +121,7 @@
   {
     "id": "monk_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/monk.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/monk.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/monkReversed.png"],
     "name": "Monge",
     "edition": "tb",
@@ -138,7 +138,7 @@
   {
     "id": "ravenkeeper_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ravenkeeper.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/ravenkeeper.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ravenkeeperReversed.png"],
     "name": "Mestre dos Corvos",
     "edition": "tb",
@@ -155,7 +155,7 @@
   {
     "id": "virgin_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/virgin.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/virgin.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/virginReversed.png"],
     "name": "Virgem",
     "edition": "tb",
@@ -172,7 +172,7 @@
   {
     "id": "slayer_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/slayer.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/slayer.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/slayerReversed.png"],
     "name": "Atirador",
     "edition": "tb",
@@ -189,7 +189,7 @@
   {
     "id": "soldier_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/soldier.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/soldier.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/soldierReversed.png"],
     "name": "Soldado",
     "edition": "tb",
@@ -206,7 +206,7 @@
   {
     "id": "mayor_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mayor.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/mayor.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mayorReversed.png"],
     "name": "Prefeito",
     "edition": "tb",
@@ -223,7 +223,7 @@
   {
     "id": "butler_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butler.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/butler.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butlerReversed.png"],
     "name": "Mordomo",
     "edition": "tb",
@@ -240,7 +240,7 @@
   {
     "id": "drunk_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/drunk.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/drunk.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/drunkReversed.png"],
     "name": "Bêbado",
     "edition": "tb",
@@ -258,7 +258,7 @@
   {
     "id": "recluse_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/recluse.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/recluse.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/recluseReversed.png"],
     "name": "Recluso",
     "edition": "tb",
@@ -275,7 +275,7 @@
   {
     "id": "saint_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/saint.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/saint.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/saintReversed.png"],
     "name": "Santo",
     "edition": "tb",
@@ -292,7 +292,7 @@
   {
     "id": "poisoner_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poisoner.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/poisoner.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poisonerReversed.png"],
     "name": "Envenenador",
     "edition": "tb",
@@ -309,7 +309,7 @@
   {
     "id": "spy_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/spy.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/spy.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/spyReversed.png"],
     "name": "Espião",
     "edition": "tb",
@@ -335,7 +335,7 @@
   {
     "id": "scarletwoman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scarletwoman.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/scarletwoman.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scarletwomanReversed.png"],
     "name": "Mulher Escarlate",
     "edition": "tb",
@@ -354,7 +354,7 @@
   {
     "id": "baron_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baron.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/baron.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baronReversed.png"],
     "name": "Barão",
     "edition": "tb",
@@ -375,7 +375,7 @@
   {
     "id": "imp_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/imp.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/imp.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/impReversed.png"],
     "name": "Capeta",
     "edition": "tb",
@@ -392,7 +392,7 @@
   {
     "id": "bureaucrat_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bureaucrat.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/bureaucrat.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bureaucratGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bureaucratEvil.png"],
     "name": "Burocrata",
@@ -411,7 +411,7 @@
   {
     "id": "thief_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/thief.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/thief.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/thiefGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/thiefEvil.png"],
     "name": "Ladrão",
@@ -430,7 +430,7 @@
   {
     "id": "gunslinger_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gunslinger.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/gunslinger.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gunslingerGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gunslingerEvil.png"],
     "name": "Pistoleiro",
@@ -448,7 +448,7 @@
   {
     "id": "scapegoat_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scapegoat.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/scapegoat.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scapegoatGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scapegoatEvil.png"],
     "name": "Bode Expiatório",
@@ -466,7 +466,7 @@
   {
     "id": "beggar_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggar.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/beggar.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggarGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggarEvil.png"],
     "name": "Pedinte",
@@ -484,7 +484,7 @@
   {
     "id": "grandmother_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/grandmother.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/grandmother.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/grandmotherReversed.png"],
     "name": "Vovó",
     "edition": "bmr",
@@ -501,7 +501,7 @@
   {
     "id": "sailor_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sailor.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/sailor.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sailorReversed.png"],
     "name": "Marinheiro",
     "edition": "bmr",
@@ -518,7 +518,7 @@
   {
     "id": "chambermaid_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chambermaid.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/chambermaid.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chambermaidReversed.png"],
     "name": "Camareira",
     "edition": "bmr",
@@ -537,7 +537,7 @@
   {
     "id": "exorcist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/exorcist.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/exorcist.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/exorcistReversed.png"],
     "name": "Exorcista",
     "edition": "bmr",
@@ -554,7 +554,7 @@
   {
     "id": "innkeeper_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/innkeeper.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/innkeeper.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/innkeeperReversed.png"],
     "name": "Taverneiro",
     "edition": "bmr",
@@ -571,7 +571,7 @@
   {
     "id": "gambler_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gambler.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/gambler.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gamblerReversed.png"],
     "name": "Apostador",
     "edition": "bmr",
@@ -588,7 +588,7 @@
   {
     "id": "gossip_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gossip.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/gossip.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gossipReversed.png"],
     "name": "Fofoqueiro",
     "edition": "bmr",
@@ -605,7 +605,7 @@
   {
     "id": "courtier_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/courtier.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/courtier.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/courtierReversed.png"],
     "name": "Cortesã",
     "edition": "bmr",
@@ -622,7 +622,7 @@
   {
     "id": "professor_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/professor.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/professor.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/professorReversed.png"],
     "name": "Cientista",
     "edition": "bmr",
@@ -639,7 +639,7 @@
   {
     "id": "minstrel_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/minstrel.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/minstrel.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/minstrelReversed.png"],
     "name": "Bardo",
     "edition": "bmr",
@@ -656,7 +656,7 @@
   {
     "id": "tealady_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tealady.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/tealady.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tealadyReversed.png"],
     "name": "Moça do Chá",
     "edition": "bmr",
@@ -673,7 +673,7 @@
   {
     "id": "pacifist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pacifist.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/pacifist.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pacifistReversed.png"],
     "name": "Pacifista",
     "edition": "bmr",
@@ -690,7 +690,7 @@
   {
     "id": "fool_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fool.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/fool.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/foolReversed.png"],
     "name": "Bobo",
     "edition": "bmr",
@@ -707,7 +707,7 @@
   {
     "id": "tinker_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tinker.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/tinker.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tinkerReversed.png"],
     "name": "Imprudente",
     "edition": "bmr",
@@ -724,7 +724,7 @@
   {
     "id": "moonchild_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/moonchild.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/moonchild.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/moonchildReversed.png"],
     "name": "Filha da Lua",
     "edition": "bmr",
@@ -741,7 +741,7 @@
   {
     "id": "goon_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goon.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/goon.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goonReversed.png"],
     "name": "Capanga",
     "edition": "bmr",
@@ -758,7 +758,7 @@
   {
     "id": "lunatic_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lunatic.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/lunatic.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lunaticReversed.png"],
     "name": "Lunático",
     "edition": "bmr",
@@ -778,7 +778,7 @@
   {
     "id": "godfather_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/godfather.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/godfather.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/godfatherReversed.png"],
     "name": "Mafioso",
     "edition": "bmr",
@@ -797,7 +797,7 @@
   {
     "id": "devilsadvocate_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/devilsadvocate.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/devilsadvocate.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/devilsadvocateReversed.png"],
     "name": "Advogado do Diabo",
     "edition": "bmr",
@@ -814,7 +814,7 @@
   {
     "id": "assassin_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/assassin.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/assassin.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/assassinReversed.png"],
     "name": "Assassino",
     "edition": "bmr",
@@ -831,7 +831,7 @@
   {
     "id": "mastermind_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mastermind.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/mastermind.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mastermindReversed.png"],
     "name": "Mentor",
     "edition": "bmr",
@@ -848,7 +848,7 @@
   {
     "id": "zombuul_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zombuul.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/zombuul.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zombuulReversed.png"],
     "name": "Zumbuul",
     "edition": "bmr",
@@ -865,7 +865,7 @@
   {
     "id": "pukka_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pukka.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/pukka.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pukkaReversed.png"],
     "name": "Pukka",
     "edition": "bmr",
@@ -882,7 +882,7 @@
   {
     "id": "shabaloth_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shabaloth.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/shabaloth.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shabalothReversed.png"],
     "name": "Xabalote",
     "edition": "bmr",
@@ -899,7 +899,7 @@
   {
     "id": "po_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/po.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/po.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poReversed.png"],
     "name": "Po",
     "edition": "bmr",
@@ -916,7 +916,7 @@
   {
     "id": "apprentice_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/apprentice.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/apprentice.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/apprenticeGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/apprenticeEvil.png"],
     "name": "Aprendiz",
@@ -934,7 +934,7 @@
   {
     "id": "matron_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/matron.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/matron.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/matronGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/matronEvil.png"],
     "name": "Matrona",
@@ -952,7 +952,7 @@
   {
     "id": "judge_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/judge.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/judge.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/judgeGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/judgeEvil.png"],
     "name": "Juiz",
@@ -970,7 +970,7 @@
   {
     "id": "bishop_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bishop.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/bishop.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bishopGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bishopEvil.png"],
     "name": "Bispo",
@@ -988,7 +988,7 @@
   {
     "id": "voudon_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/voudon.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/voudon.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/voudonGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/voudonEvil.png"],
     "name": "Voudon",
@@ -1006,7 +1006,7 @@
   {
     "id": "clockmaker_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/clockmaker.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/clockmaker.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/clockmakerReversed.png"],
     "name": "Relojoeiro",
     "edition": "snv",
@@ -1023,7 +1023,7 @@
   {
     "id": "dreamer_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/dreamer.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/dreamer.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/dreamerReversed.png"],
     "name": "Sonhador",
     "edition": "snv",
@@ -1040,7 +1040,7 @@
   {
     "id": "snakecharmer_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snakecharmer.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/snakecharmer.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snakecharmerReversed.png"],
     "name": "Encantador",
     "edition": "snv",
@@ -1057,7 +1057,7 @@
   {
     "id": "mathematician_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mathematician.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/mathematician.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mathematicianReversed.png"],
     "name": "Matemático",
     "edition": "snv",
@@ -1074,7 +1074,7 @@
   {
     "id": "flowergirl_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/flowergirl.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/flowergirl.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/flowergirlReversed.png"],
     "name": "Florista",
     "edition": "snv",
@@ -1091,7 +1091,7 @@
   {
     "id": "towncrier_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/towncrier.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/towncrier.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/towncrierReversed.png"],
     "name": "Arauto da Cidade",
     "edition": "snv",
@@ -1108,7 +1108,7 @@
   {
     "id": "oracle_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/oracle.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/oracle.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/oracleReversed.png"],
     "name": "Oráculo",
     "edition": "snv",
@@ -1125,7 +1125,7 @@
   {
     "id": "savant_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/savant.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/savant.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/savantReversed.png"],
     "name": "Prodígio",
     "edition": "snv",
@@ -1142,7 +1142,7 @@
   {
     "id": "seamstress_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/seamstress.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/seamstress.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/seamstressReversed.png"],
     "name": "Costureira",
     "edition": "snv",
@@ -1159,7 +1159,7 @@
   {
     "id": "philosopher_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/philosopher.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/philosopher.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/philosopherReversed.png"],
     "name": "Filósofo",
     "edition": "snv",
@@ -1178,7 +1178,7 @@
   {
     "id": "artist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/artist.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/artist.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/artistReversed.png"],
     "name": "Artista",
     "edition": "snv",
@@ -1195,7 +1195,7 @@
   {
     "id": "juggler_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/juggler.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/juggler.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/jugglerReversed.png"],
     "name": "Malabarista",
     "edition": "snv",
@@ -1212,7 +1212,7 @@
   {
     "id": "sage_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sage.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/sage.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sageReversed.png"],
     "name": "Sábio",
     "team": "townsfolk",
@@ -1229,7 +1229,7 @@
   {
     "id": "mutant_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mutant.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/mutant.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mutantReversed.png"],
     "name": "Mutante",
     "edition": "snv",
@@ -1246,7 +1246,7 @@
   {
     "id": "sweetheart_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sweetheart.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/sweetheart.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sweetheartReversed.png"],
     "name": "Queridinha",
     "edition": "snv",
@@ -1263,7 +1263,7 @@
   {
     "id": "barber_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/barber.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/barber.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/barberReversed.png"],
     "name": "Barbeiro",
     "edition": "snv",
@@ -1280,7 +1280,7 @@
   {
     "id": "klutz_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/klutz.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/klutz.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/klutzReversed.png"],
     "name": "Desastrado",
     "edition": "snv",
@@ -1297,7 +1297,7 @@
   {
     "id": "eviltwin_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/eviltwin.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/eviltwin.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/eviltwinReversed.png"],
     "name": "Gêmea Má",
     "edition": "snv",
@@ -1315,7 +1315,7 @@
   {
     "id": "witch_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/witch.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/witch.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/witchReversed.png"],
     "name": "Feiticeira",
     "edition": "snv",
@@ -1332,7 +1332,7 @@
   {
     "id": "cerenovus_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cerenovus.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/cerenovus.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cerenovusReversed.png"],
     "name": "Cerenovus",
     "edition": "snv",
@@ -1351,7 +1351,7 @@
   {
     "id": "pit-hag_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pithag.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/pithag.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pithagReversed.png"],
     "name": "Bruxa do Fosso",
     "edition": "snv",
@@ -1376,7 +1376,7 @@
   {
     "id": "fanggu_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fanggu.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/fanggu.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fangguReversed.png"],
     "name": "Fang Gu",
     "edition": "snv",
@@ -1393,7 +1393,7 @@
   {
     "id": "vigormortis_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vigormortis.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/vigormortis.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vigormortisReversed.png"],
     "name": "Vigormortis",
     "edition": "snv",
@@ -1410,7 +1410,7 @@
   {
     "id": "nodashii_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nodashii.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/nodashii.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nodashiiReversed.png"],
     "name": "No Dashii",
     "edition": "snv",
@@ -1427,7 +1427,7 @@
   {
     "id": "vortox_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vortox.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/vortox.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vortoxReversed.png"],
     "name": "Vortox",
     "edition": "snv",
@@ -1446,7 +1446,7 @@
   {
     "id": "barista_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/barista.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/barista.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baristaGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baristaEvil.png"],
     "name": "Barista",
@@ -1464,7 +1464,7 @@
   {
     "id": "harlot_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harlot.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/harlot.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harlotGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harlotEvil.png"],
     "name": "Meretriz",
@@ -1482,7 +1482,7 @@
   {
     "id": "butcher_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butcher.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/butcher.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butcherGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butcherEvil.png"],
     "name": "Açougueiro",
@@ -1500,7 +1500,7 @@
   {
     "id": "bonecollector_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollector.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/bonecollector.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollectorGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollectorEvil.png"],
     "name": "Coletor de Ossos",
@@ -1518,7 +1518,7 @@
   {
     "id": "deviant_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/deviant.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/deviant.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/deviantGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/deviantEvil.png"],
     "name": "Desviado",
@@ -1536,7 +1536,7 @@
   {
     "id": "noble_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/noble.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/noble.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nobleReversed.png"],
     "name": "Nobre",
     "edition": "",
@@ -1553,7 +1553,7 @@
   {
     "id": "bountyhunter_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bountyhunter.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/bountyhunter.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bountyhunterReversed.png"],
     "name": "Mercenário",
     "edition": "",
@@ -1570,7 +1570,7 @@
   {
     "id": "pixie_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pixie.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/pixie.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pixieReversed.png"],
     "name": "Pixie",
     "edition": "",
@@ -1587,7 +1587,7 @@
   {
     "id": "general_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/general.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/general.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/generalReversed.png"],
     "name": "General",
     "edition": "",
@@ -1604,7 +1604,7 @@
   {
     "id": "preacher_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/preacher.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/preacher.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/preacherReversed.png"],
     "name": "Pregador",
     "edition": "",
@@ -1621,7 +1621,7 @@
   {
     "id": "king_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/king.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/king.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/kingReversed.png"],
     "name": "Rei",
     "edition": "",
@@ -1638,7 +1638,7 @@
   {
     "id": "balloonist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/balloonist.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/balloonist.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/balloonistReversed.png"],
     "name": "Balonista",
     "edition": "",
@@ -1655,7 +1655,7 @@
   {
     "id": "cultleader_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cultleader.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/cultleader.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cultleaderReversed.png"],
     "name": "Líder da Seita",
     "edition": "",
@@ -1672,7 +1672,7 @@
   {
     "id": "lycanthrope_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lycanthrope.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/lycanthrope.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lycanthropeReversed.png"],
     "name": "Licantropo",
     "edition": "",
@@ -1691,7 +1691,7 @@
   {
     "id": "amnesiac_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/amnesiac.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/amnesiac.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/amnesiacReversed.png"],
     "name": "Amnésico",
     "edition": "",
@@ -1709,7 +1709,7 @@
   {
     "id": "nightwatchman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nightwatchman.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/nightwatchman.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nightwatchmanReversed.png"],
     "name": "Vigia Noturno",
     "edition": "",
@@ -1725,7 +1725,7 @@
   {
     "id": "engineer_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/engineer.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/engineer.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/engineerReversed.png"],
     "name": "Engenheiro",
     "edition": "",
@@ -1742,7 +1742,7 @@
   {
     "id": "fisherman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fisherman.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/fisherman.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fishermanReversed.png"],
     "name": "Pescador",
     "edition": "",
@@ -1759,7 +1759,7 @@
   {
     "id": "huntsman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/huntsman.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/huntsman.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/huntsmanReversed.png"],
     "name": "Caçador",
     "edition": "",
@@ -1776,7 +1776,7 @@
   {
     "id": "alchemist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alchemist.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/alchemist.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alchemistReversed.png"],
     "name": "Alquimista",
     "edition": "",
@@ -1794,7 +1794,7 @@
   {
     "id": "farmer_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/farmer.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/farmer.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/farmerReversed.png"],
     "name": "Fazendeiro",
     "edition": "",
@@ -1811,7 +1811,7 @@
   {
     "id": "magician_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/magician.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/magician.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/magicianReversed.png"],
     "name": "Mágico",
     "edition": "",
@@ -1828,7 +1828,7 @@
   {
     "id": "choirboy_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/choirboy.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/choirboy.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/choirboyReversed.png"],
     "name": "Coroinha",
     "edition": "",
@@ -1845,7 +1845,7 @@
   {
     "id": "poppygrower_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poppygrower.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/poppygrower.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poppygrowerReversed.png"],
     "name": "Cultivadora",
     "edition": "",
@@ -1862,7 +1862,7 @@
   {
     "id": "atheist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/atheist.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/atheist.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/atheistReversed.png"],
     "name": "Ateu",
     "edition": "",
@@ -1880,7 +1880,7 @@
   {
     "id": "cannibal_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cannibal.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/cannibal.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cannibalReversed.png"],
     "name": "Canibal",
     "edition": "",
@@ -1901,7 +1901,7 @@
   {
     "id": "steward_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/steward.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/steward.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/stewardReversed.png"],
     "name": "Regente",
     "edition": "",
@@ -1918,7 +1918,7 @@
   {
     "id": "knight_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/knight.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/knight.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/knightReversed.png"],
     "name": "Cavaleiro",
     "edition": "",
@@ -1935,7 +1935,7 @@
   {
     "id": "highpriestess_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/highpriestess.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/highpriestess.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/highpriestessReversed.png"],
     "name": "Suma Sacerdotisa",
     "edition": "",
@@ -1952,7 +1952,7 @@
   {
     "id": "shugenja_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shugenja.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/shugenja.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shugenjaReversed.png"],
     "name": "Shugenja",
     "edition": "",
@@ -1969,7 +1969,7 @@
   {
     "id": "villageidiot_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/villageidiot.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/villageidiot.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/villageidiotReversed.png"],
     "name": "Idiota da Vila",
     "edition": "",
@@ -1987,7 +1987,7 @@
   {
     "id": "banshee_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/banshee.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/banshee.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bansheeReversed.png"],
     "name": "Banshee",
     "edition": "",
@@ -2005,7 +2005,7 @@
   {
     "id": "alsaahir_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alsaahir.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/alsaahir.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alsaahirReversed.png"],
     "name": "Alsaahir",
     "edition": "",
@@ -2022,7 +2022,7 @@
   {
     "id": "snitch_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snitch.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/snitch.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snitchReversed.png"],
     "name": "Dedo-duro",
     "edition": "",
@@ -2039,7 +2039,7 @@
   {
     "id": "acrobat_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/acrobat.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/acrobat.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/acrobatReversed.png"],
     "name": "Acrobata",
     "edition": "",
@@ -2056,7 +2056,7 @@
   {
     "id": "puzzlemaster_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/puzzlemaster.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/puzzlemaster.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/puzzlemasterReversed.png"],
     "name": "Enigmático",
     "edition": "",
@@ -2073,7 +2073,7 @@
   {
     "id": "heretic_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/heretic.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/heretic.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hereticReversed.png"],
     "name": "Herege",
     "edition": "",
@@ -2090,7 +2090,7 @@
   {
     "id": "damsel_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/damsel.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/damsel.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/damselReversed.png"],
     "name": "Donzela",
     "edition": "",
@@ -2107,7 +2107,7 @@
   {
     "id": "golem_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/golem.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/golem.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/golemReversed.png"],
     "name": "Golem",
     "edition": "",
@@ -2124,7 +2124,7 @@
   {
     "id": "politician_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/politician.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/politician.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/politicianReversed.png"],
     "name": "Político",
     "edition": "",
@@ -2141,7 +2141,7 @@
   {
     "id": "plaguedoctor_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/plaguedoctor.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/plaguedoctor.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/plaguedoctorReversed.png"],
     "name": "Médico da Peste",
     "edition": "",
@@ -2158,7 +2158,7 @@
   {
     "id": "hatter_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hatter.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/hatter.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hatterReversed.png"],
     "name": "Chapeleiro",
     "edition": "",
@@ -2175,7 +2175,7 @@
   {
     "id": "ogre_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ogre.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/ogre.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ogreReversed.png"],
     "name": "Ogro",
     "edition": "",
@@ -2194,7 +2194,7 @@
   {
     "id": "zealot_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zealot.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/zealot.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zealotReversed.png"],
     "name": "Fanático",
     "edition": "",
@@ -2211,7 +2211,7 @@
   {
     "id": "widow_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/widow.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/widow.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/widowReversed.png"],
     "name": "Viúva",
     "edition": "",
@@ -2235,7 +2235,7 @@
   {
     "id": "fearmonger_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fearmonger.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/fearmonger.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fearmongerReversed.png"],
     "name": "Intimidador",
     "edition": "",
@@ -2253,7 +2253,7 @@
   {
     "id": "psychopath_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/psychopath.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/psychopath.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/psychopathReversed.png"],
     "name": "Psicopata",
     "edition": "",
@@ -2270,7 +2270,7 @@
   {
     "id": "goblin_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goblin.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/goblin.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goblinReversed.png"],
     "name": "Goblin",
     "edition": "",
@@ -2288,7 +2288,7 @@
   {
     "id": "mezepheles_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mezepheles.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/mezepheles.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mezephelesReversed.png"],
     "name": "Mezéfeles",
     "edition": "",
@@ -2305,7 +2305,7 @@
   {
     "id": "marionette_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/marionette.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/marionette.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/marionetteReversed.png"],
     "name": "Marionete",
     "edition": "",
@@ -2331,7 +2331,7 @@
   {
     "id": "boomdandy_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boomdandy.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/boomdandy.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boomdandyReversed.png"],
     "name": "Homem-Bomba",
     "edition": "",
@@ -2351,7 +2351,7 @@
   {
     "id": "organgrinder_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/organgrinder.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/organgrinder.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/organgrinderReversed.png"],
     "name": "Realejo",
     "edition": "",
@@ -2374,7 +2374,7 @@
   {
     "id": "vizier_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vizier.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/vizier.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vizierReversed.png"],
     "name": "Vizir",
     "edition": "",
@@ -2402,7 +2402,7 @@
   {
     "id": "harpy_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harpy.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/harpy.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harpyReversed.png"],
     "name": "Harpia",
     "edition": "",
@@ -2419,7 +2419,7 @@
   {
     "id": "summoner_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/summoner.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/summoner.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/summonerReversed.png"],
     "name": "Invocador",
     "edition": "",
@@ -2451,7 +2451,7 @@
   {
     "id": "lilmonsta_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lilmonsta.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/lilmonsta.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lilmonstaReversed.png"],
     "name": "Monstrim",
     "edition": "",
@@ -2476,7 +2476,7 @@
   {
     "id": "lleech_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lleech.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/lleech.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lleechReversed.png"],
     "name": "Sanguesuga",
     "edition": "",
@@ -2497,7 +2497,7 @@
   {
     "id": "al-hadikhia_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alhadikhia.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/alhadikhia.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alhadikhiaReversed.png"],
     "name": "Al-Hadikhia",
     "edition": "",
@@ -2517,7 +2517,7 @@
   {
     "id": "legion_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/legion.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/legion.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/legionReversed.png"],
     "name": "Legião",
     "edition": "",
@@ -2541,7 +2541,7 @@
   {
     "id": "leviathan_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/leviathan.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/leviathan.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/leviathanReversed.png"],
     "name": "Leviatã",
     "edition": "",
@@ -2569,7 +2569,7 @@
   {
     "id": "riot_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/riot.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/riot.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/riotReversed.png"],
     "name": "Pandemônio",
     "edition": "",
@@ -2618,7 +2618,7 @@
   {
     "id": "ojo_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ojo.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/ojo.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ojoReversed.png"],
     "name": "Ojo",
     "edition": "",
@@ -2635,7 +2635,7 @@
   {
     "id": "kazali_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/kazali.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/kazali.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/kazaliReversed.png"],
     "name": "Kazali",
     "edition": "",
@@ -2659,7 +2659,7 @@
   {
     "id": "yaggababble_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/yaggababble.png", 
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/yaggababble.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/yaggababbleReversed.png"],
     "name": "Yagarela",
     "edition": "",
@@ -2678,7 +2678,7 @@
   {
     "id": "gangster_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangster.png",
+      "https://raw.githubusercontent.com/Covre912/TradutorDeScriptsBotC/main/images/gangster.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangsterGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangsterEvil.png"],
     "name": "Gangster",
